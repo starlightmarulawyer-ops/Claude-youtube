@@ -1,0 +1,11 @@
+{
+  "name": "chungnyeong-todo",
+  "private": true,
+  "description": "법률사무소 충녕 할 일 관리 페이지",
+  "scripts": {
+    "test": "node tests/todo.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}
